@@ -205,11 +205,11 @@
 		0,
 		350
 	],
-	"healthicon": "bf",
+	"healthicon": "P&B",
 	"flip_x": true,
 	"healthbar_colors": [
-		60,
-		40,
+		224,
+		176,
 		255
 	],
 	"camera_position": [
